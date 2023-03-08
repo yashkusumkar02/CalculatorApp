@@ -42,7 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:layout_marginBottom="10dp"
-            android:gravity="center"
+            android:gravity="right"
             android:orientation="horizontal"
             android:paddingTop="5dp"
             android:paddingBottom="5dp">
@@ -71,12 +71,6 @@
                 android:layout_marginRight="25dp"
                 android:background="@drawable/btn_module" />
 
-            <ImageView
-
-                android:layout_width="70dp"
-                android:layout_height="70dp"
-                android:layout_marginRight="25dp"
-                android:background="@drawable/btn_extra" />
 
         </LinearLayout>
 
@@ -249,7 +243,7 @@
                 android:layout_width="70dp"
                 android:layout_height="70dp"
                 android:layout_marginRight="25dp"
-                android:background="@drawable/btn_equal" />
+                android:background="@drawable/isqual" />
 
         </LinearLayout>
 
